@@ -17,7 +17,7 @@ const schema = mongoose.Schema({
         type:String,
         required:true
     },
-    control:{
+    contact:{
         type:String,
         required:true
     },
